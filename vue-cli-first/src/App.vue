@@ -10,12 +10,12 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-import MyGallery from '.components/MyGallery.vue'
+import MyGallery from './components/MyGallery.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    HelloWorld,
     MyGallery
   }
 }
